@@ -1,0 +1,4 @@
+~/.*
+====
+
+Ubuntu specific configuration.

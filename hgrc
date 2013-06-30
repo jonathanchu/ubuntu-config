@@ -1,0 +1,2 @@
+[extensions]
+    prompt = /home/jonathan/projects/hg-prompt/prompt.py
